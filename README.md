@@ -37,7 +37,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
 
 ## Access Token and first 8 browserID
-- You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net/register?ref=gamBazFEV0g4kt).
+- You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net/register?ref=gaHpmXDjh30CFb).
 
   ![gaea-token](image-1.png)
 - Copy your first 8 browser id
